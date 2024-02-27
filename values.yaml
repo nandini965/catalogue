@@ -4,4 +4,3 @@ appPort: 8080
 schema:
   enabled: true
   type: mongo
-
